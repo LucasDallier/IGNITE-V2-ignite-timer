@@ -9,7 +9,7 @@ export const HeaderContainer = styled.div`
     display: flex;
     gap: 0.5rem;
 
-    a {
+    > a {
       width: 3rem;
       height: 3rem;
 
